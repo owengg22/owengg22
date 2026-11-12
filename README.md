@@ -14,7 +14,7 @@ Institut Teknologi Sepuluh Nopember · Class of 2024
 
 ---
 
-I work with sensors, electronics, and firmware, with a focus on biomedical instrumentation and IoT telemetry.
+I work with sensors, electronics, firmware, and monitoring applications, with a focus on biomedical instrumentation and IoT telemetry.
 
 At **ITS Team Sapuangin**, I contribute to Electrical and Programming. I also lead the technical work for **BEACON 2026** and **BMW 2026**.
 
@@ -23,11 +23,13 @@ At **ITS Team Sapuangin**, I contribute to Electrical and Programming. I also le
 - **Biomedical instrumentation:** sensing, signal acquisition, and hardware integration.
 - **Embedded systems:** microcontroller firmware, communication interfaces, and telemetry.
 - **IoT telemetry:** connecting sensors and embedded devices to monitoring systems.
+- **Android & HMI:** building sensor monitoring applications with Kotlin and Jetpack Compose.
 
 ### Selected work
 
 | Project | Inside the repository | Area |
 | :--- | :--- | :--- |
+| [BME Monitor · HMI](https://github.com/owengg22/ETS_Project_HMI) | Android prototype for MAX30102 sensor monitoring, trend charts, session recording, and history over MQTT/TLS, integrated with STM32 and ESP32. | Android · IoT telemetry |
 | [STM32 Robot](https://github.com/owengg22/robot-STM32) | STM32F103 firmware with PWM motor control and interrupt-driven UART input. | Embedded · C |
 | [DSP](https://github.com/owengg22/DSP) | Study materials on system identification and P, PI, PD, and PID control. | Signals · Control |
 
@@ -37,6 +39,7 @@ At **ITS Team Sapuangin**, I contribute to Electrical and Programming. I also le
 | :--- | :--- |
 | Firmware | C · C++ · STM32 · ESP32 · Arduino · Raspberry Pi |
 | Interfaces | CAN Bus · I2C · SPI · UART |
+| Applications & IoT | Kotlin · Jetpack Compose · Android Studio · MQTT/TLS · HiveMQ Cloud |
 | Data & scripting | Python |
 | Development | STM32CubeIDE · PlatformIO · VS Code · Git · ST-LINK |
 
