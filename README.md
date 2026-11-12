@@ -29,7 +29,6 @@ At **ITS Team Sapuangin**, I contribute to Electrical and Programming. I also le
 | Project | Inside the repository | Area |
 | :--- | :--- | :--- |
 | [STM32 Robot](https://github.com/owengg22/robot-STM32) | STM32F103 firmware with PWM motor control and interrupt-driven UART input. | Embedded · C |
-| [Kneematics PCB](https://github.com/owengg22/PCB_Kneematics) | KiCad schematic and PCB design files. | Electronics · PCB design |
 | [DSP](https://github.com/owengg22/DSP) | Study materials on system identification and P, PI, PD, and PID control. | Signals · Control |
 
 ### Technical stack
@@ -40,7 +39,6 @@ At **ITS Team Sapuangin**, I contribute to Electrical and Programming. I also le
 | Interfaces | CAN Bus · I2C · SPI · UART |
 | Data & scripting | Python |
 | Development | STM32CubeIDE · PlatformIO · VS Code · Git · ST-LINK |
-| Hardware & design | KiCad · Proteus · SolidWorks · Figma |
 
 ---
 
