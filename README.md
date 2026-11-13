@@ -31,7 +31,7 @@ At **ITS Team Sapuangin**, I contribute to Electrical and Programming. I also le
 | :--- | :--- | :--- |
 | [BME Monitor · HMI](https://github.com/owengg22/ETS_Project_HMI) | Android prototype for MAX30102 sensor monitoring, trend charts, session recording, and history over MQTT/TLS, integrated with STM32 and ESP32. | Android · IoT telemetry |
 | [STM32 Robot](https://github.com/owengg22/robot-STM32) | STM32F103 firmware with PWM motor control and interrupt-driven UART input. | Embedded · C |
-| [DSP](https://github.com/owengg22/DSP) | Study materials on system identification and P, PI, PD, and PID control. | Signals · Control |
+| [ECG Analog Front-End](https://github.com/owengg22/MENCOBA_ECG) | Work-in-progress ECG circuit design covering differential amplification, filtering, ADC signal conditioning, and power supply integration in KiCad 10. | Biomedical instrumentation · Analog circuits |
 
 ### Technical stack
 
